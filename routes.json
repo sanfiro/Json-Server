@@ -1,0 +1,4 @@
+{
+  "/api/*": "/$1",
+  "/getUsersByName/:firstName": "/users?firstName=:firstName"
+}
